@@ -54,3 +54,7 @@ p {
 	font-style: italic;
 	color: #666;
 }
+
+#audioPlayer {
+	width: 100%;
+}
